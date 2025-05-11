@@ -1,5 +1,5 @@
-# Conteúdo do README.md em inglês
-readme_content_en = """# 🃏 Blackjack Card Counting System
+#READ ME
+🃏 Blackjack Card Counting System
 
 **Developed by [Ricardo](https://github.com/ricardomdn) | For educational purposes only**
 
