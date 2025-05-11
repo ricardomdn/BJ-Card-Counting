@@ -1,36 +1,32 @@
-# 🃏 Blackjack Card Counting System
+# Conteúdo do README.md em inglês
+readme_content_en = """# 🃏 Blackjack Card Counting System
 
-**Desenvolvido por [Ricardo](https://github.com/ricardomdn) | Apenas para fins educacionais**
+**Developed by [Ricardo](https://github.com/ricardomdn) | For educational purposes only**
 
-Este projeto é um sistema de contagem de cartas no Blackjack, baseado na estratégia Hi-Lo, com visual moderno e responsivo utilizando Tailwind CSS. A aplicação auxilia jogadores a acompanhar o `Running Count` e o `True Count`, fornecendo também uma sugestão de aposta com base na contagem.
-
----
-
-## 🔍 Demonstração
-
-> Veja o sistema em ação diretamente no seu navegador!  
-> Basta abrir o arquivo `index.html` localmente.
+This project is a Blackjack card counting system based on the Hi-Lo strategy, featuring a modern and responsive interface built with Tailwind CSS. The application helps players track the `Running Count` and `True Count`, while also providing betting suggestions based on statistical advantage.
 
 ---
 
-## 🚀 Funcionalidades
+## 🔍 Demo
 
-- 🎯 **Contagem Automática**: Atualiza o `Running Count` e o `True Count` com base nas cartas clicadas.
-- 📈 **Indicador de Aposta**: Mostra sugestões em tempo real ("Bet", "Neutral", "Don't Bet") com base na vantagem estatística.
-- 🧮 **Configuração de Baralhos**: Permite definir o número total de baralhos e acompanha a quantidade de decks restantes.
-- ♻️ **Reset e Desfazer**: Botões para reiniciar o contador ou desfazer a última carta jogada.
-- 💡 **Interface Responsiva**: Totalmente estilizada com Tailwind CSS e otimizada para uso em diferentes dispositivos.
+> See the system in action directly in your browser!  
+> Just open the `index.html` file locally.
 
 ---
 
-## 🛠️ Como usar
+## 🚀 Features
 
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
-3. Clique nas cartas conforme forem sendo jogadas.
-4. Observe a contagem e siga as recomendações de aposta fornecidas pelo sistema.
+- 🎯 **Automatic Counting**: Updates the `Running Count` and `True Count` based on clicked cards.
+- 📈 **Betting Indicator**: Shows real-time betting suggestions ("Bet", "Neutral", "Don't Bet") based on the count.
+- 🧮 **Deck Configuration**: Set the total number of decks and monitor remaining decks as cards are played.
+- ♻️ **Reset & Undo**: Buttons to reset the counter or undo the last played card.
+- 💡 **Responsive Interface**: Fully styled with Tailwind CSS and optimized for all screen sizes.
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🛠️ How to Use
 
+1. Clone or download this repository.
+2. Open the `index.html` file in any modern browser.
+3. Click on the cards as they are played.
+4. Monitor the counts and follow the suggested betting strategy.
